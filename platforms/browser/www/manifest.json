@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "ActividadCuatroCinco",
+  "short_name": "ActividadCuatroCinco",
+  "version": "actividadcuatro.cinco",
+  "description": "Sample Apache Cordova App",
+  "author": "Apache Cordova Team",
+  "icons": [],
+  "start_url": "index.html"
+}
